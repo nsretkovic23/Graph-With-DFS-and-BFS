@@ -1,0 +1,5 @@
+﻿  Graph.cpp
+  Source.cpp
+C:\Users\nsret\Desktop\Strukture\Graph\Graph\Source.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Graph.vcxproj -> C:\Users\nsret\Desktop\Strukture\Graph\Debug\Graph.exe
